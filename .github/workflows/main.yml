@@ -35,4 +35,4 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: registryserver
             location: 'west us'
-            ports: 8761
+            ports: 8889
